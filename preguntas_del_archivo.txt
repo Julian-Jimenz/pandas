@@ -1,0 +1,22 @@
+Análisis de Ventas y Productos
+
+¿Cuáles son los 5 productos más vendidos en términos de cantidad?
+¿Cuál es el producto más caro y cuál es el más barato?
+¿Cuántas ventas totales se realizaron en el dataset?
+¿Cuál es el país con más ventas en términos de cantidad de productos vendidos?
+¿Cuántos clientes diferentes hay en el dataset?
+Análisis Temporal
+
+¿En qué mes se realizaron más ventas?
+¿Cuál es el día con más ventas y cuál el día con menos ventas?
+¿Cómo ha sido la tendencia de ventas a lo largo del tiempo? (gráfico de líneas)
+¿A qué hora del día se realizan más compras? Análisis de Clientes
+¿Cuál es el cliente que ha realizado más compras?
+¿Cuál es el ticket de compra promedio de los clientes?
+¿Cuántos productos diferentes ha comprado cada cliente?
+Análisis Financiero
+
+¿Cuál es el ingreso total generado por las ventas?
+¿Cuánto han gastado en promedio los clientes?
+¿Cuál es el país con mayor ingreso total generado por ventas?
+¿Cuál es la factura con el monto más alto?o de Tránsito
